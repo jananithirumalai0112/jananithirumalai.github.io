@@ -21,14 +21,14 @@
 
 ##  Professional Experience
 
-** Governors State University** – *Machine Learning Intern*  
+**Governors State University** – *Machine Learning Intern*  
 *Nov 2024 – Mar 2025, Illinois, USA*  
 - Automated drone mission simulations using Python, ArduPilot SITL, and Gazebo  
 - Built YOLOv5/YOLOv8 object detection models with TensorFlow and ONNX  
 - Deployed inference pipeline using AWS Lambda & Flask APIs for real-time stream analysis  
 - Improved model precision by 35% and reduced execution time by 25%
 
-** Infosys Limited** – *Test Engineer*  
+**Infosys Limited** – *Test Engineer*  
 *Jun 2021 – Aug 2023, Chennai, India*  
 - Built test automation framework using Java, Selenium, TestNG, Maven  
 - Boosted regression coverage by 60% and reduced QA effort by 85%  
@@ -36,14 +36,14 @@
 - Contributed to REST API testing and development for Spring Boot microservices  
 - Enhanced BDD with Cucumber & JUnit and managed test data validation with shell scripting
 
-** Sree Bairava Nursery** – *Software Engineer*  
+**Sree Bairava Nursery** – *Software Engineer*  
 *Jun 2020 – May 2021, Hosur, India*  
 - Developed full-stack tissue culture tracking app using Angular, React, Java (MVC)  
 - Implemented Kafka-based live sensor data ingestion  
 - Deployed Dockerized microservices with Kubernetes for high-availability  
 - Improved reporting speed by 40% and system uptime to 99.9%
 
-** Ugam Solutions Pvt Ltd** – *Consultant Intern*  
+**Ugam Solutions Pvt Ltd** – *Consultant Intern*  
 *Feb 2020 – Apr 2020, Coimbatore, India*  
 - Developed REST APIs and optimized SQL queries  
 - Created responsive dashboards using Node.js  
